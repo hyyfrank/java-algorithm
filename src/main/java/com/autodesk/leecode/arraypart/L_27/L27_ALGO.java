@@ -1,4 +1,4 @@
-package com.autodesk.leecode.stringpart.L_27;
+package com.autodesk.leecode.arraypart.L_27;
 
 import com.autodesk.leecode.util.helper;
 

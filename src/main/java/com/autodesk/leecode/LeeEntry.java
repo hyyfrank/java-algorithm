@@ -1,6 +1,6 @@
 package com.autodesk.leecode;
 
-import com.autodesk.leecode.stringpart.StringEntry;
+import com.autodesk.leecode.arraypart.ArrayEntry;
 import com.autodesk.leecode.tree.TreeEntry;
 
 public class LeeEntry {
@@ -29,7 +29,7 @@ public class LeeEntry {
                 "     \\/__/        \\/__/        \\/__/        \\|__|                  \\/__/        \\/__/    ");
         System.out.println("Leecode Algorithm start...");
         System.out.println("-----------------------------------------------------------------------------------------------------");
-        StringEntry.runStringAlgo();
+        ArrayEntry.runStringAlgo();
         System.out.println("-----------------------------------------------------------------------------------------------------");
         TreeEntry.runTreeAlgo();
         System.out.println("-----------------------------------------------------------------------------------------------------");
