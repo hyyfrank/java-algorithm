@@ -15,9 +15,7 @@ public class L27_ALGO {
      */
     public static void run() {
         int[] nums = {0,1,2,2,3,0,4,2};
-        helper.printInStuff(nums);
         int pos = removeElement(nums,2);
-        helper.printOutStuff(nums);
         System.out.println("pos:"+pos);
     }
 
