@@ -31,6 +31,9 @@ public class ArrayEntry {
         System.out.println("L274: H-Index");
         L274_ALGO.run();
         System.out.println("-------------------");
+        System.out.println("L243: Short Instance Between Words");
+        L243_ALGO.run();
+        System.out.println("-------------------");
 
     }
 }
