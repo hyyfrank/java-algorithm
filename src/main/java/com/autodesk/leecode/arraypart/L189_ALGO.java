@@ -1,7 +1,5 @@
 package com.autodesk.leecode.arraypart;
-
 import java.util.Arrays;
-
 public class L189_ALGO {
     /*Given an array, rotate the array to the right by k steps, where k is non-negative.
     * --DEMO
@@ -11,7 +9,6 @@ public class L189_ALGO {
     *   rotate 1 steps to the right: [7,1,2,3,4,5,6]
     *   rotate 2 steps to the right: [6,7,1,2,3,4,5]
     *   rotate 3 steps to the right: [5,6,7,1,2,3,4]
-
     * */
     private static int[] nums = {0,1,2,3,4,5,6,7,8,9};
     public static void run() {

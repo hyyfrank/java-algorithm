@@ -1,7 +1,4 @@
 package com.autodesk.leecode.arraypart;
-
-import com.autodesk.leecode.util.helper;
-
 public class L27_ALGO {
     /**
      * 给定一个无序数组 nums 和一个值 val，你需要原地移除所有数值等于 val 的元素，返回移除后数组的新长度。
@@ -18,7 +15,6 @@ public class L27_ALGO {
         int pos = removeElement(nums,2);
         System.out.println("pos:"+pos);
     }
-
     public static int removeElement(int[] nums,int val){
         int len = nums.length;
         int pos = 0;

@@ -1,5 +1,4 @@
 package com.autodesk.leecode.arraypart;
-
 public class L277_ALGO {
     public static int callNumber=0;
     public static boolean knows(int[][] nums, int i, int j) {
@@ -7,7 +6,6 @@ public class L277_ALGO {
         return nums[i][j] == 1 ? true : false;
 
     }
-
     public static void run() {
         //a[i][j] =1 mean i know j
         //a[j][i] =1 mean j know i
@@ -43,7 +41,6 @@ public class L277_ALGO {
         }
         return candidate;
     }
-
 }
 
 
