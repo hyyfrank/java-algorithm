@@ -1,4 +1,4 @@
-package com.autodesk.leecode.arraypart.L_277;
+package com.autodesk.leecode.arraypart;
 
 public class L277_ALGO {
     public static int callNumber=0;

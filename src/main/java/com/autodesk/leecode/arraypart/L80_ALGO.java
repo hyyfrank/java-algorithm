@@ -1,4 +1,4 @@
-package com.autodesk.leecode.arraypart.L_80;
+package com.autodesk.leecode.arraypart;
 
 public class L80_ALGO {
     /**
