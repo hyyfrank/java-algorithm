@@ -36,5 +36,11 @@ public class ArrayAlgorithmEntry {
         System.out.println("-------------------");
         System.out.println("L217: Duplicated Array");
         L217_ContainsDuplicate.run();
+        System.out.println("-------------------");
+        System.out.println("L219: Duplicated ArrayII");
+        L219_ContainsDuplicateII.run();
+        System.out.println("-------------------");
+        System.out.println("L220: Duplicated ArrayII");
+        L220_ContainsDuplicateIII.run();
     }
 }
