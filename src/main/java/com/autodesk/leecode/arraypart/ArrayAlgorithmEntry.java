@@ -45,5 +45,9 @@ public class ArrayAlgorithmEntry {
         System.out.println("-------------------");
         System.out.println("L55: Jump Game");
         L55_JumpGameI.run();
+        System.out.println("-------------------");
+        System.out.println("L121: Buy Stock");
+        L121_122_123_188_BuyStock.run();
+
     }
 }
