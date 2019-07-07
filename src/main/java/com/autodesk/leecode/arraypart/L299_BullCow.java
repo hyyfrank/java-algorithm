@@ -1,5 +1,5 @@
 package com.autodesk.leecode.arraypart;
-public class L299_ALGO {
+public class L299_BullCow {
     public static void run() {
         System.out.println(getHint("1234","3211"));
     }

@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-public class L243_ALGO {
+public class L243_WordShortestDistance {
     public static void run() {
         String[] words = {"practice", "makes", "perfect", "coding", "makes"};
         int distance = shortestDistanceI(words,"practice","coding");

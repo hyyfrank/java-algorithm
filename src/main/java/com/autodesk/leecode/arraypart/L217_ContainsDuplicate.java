@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class L217_ALGO {
+public class L217_ContainsDuplicate {
     public static void run() {
         int[] nums = {1,2,3,4,1};
         System.out.println("is duplicated? "+ containsDuplicateIII(nums));

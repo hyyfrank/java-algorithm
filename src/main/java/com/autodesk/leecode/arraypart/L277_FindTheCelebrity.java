@@ -1,5 +1,5 @@
 package com.autodesk.leecode.arraypart;
-public class L277_ALGO {
+public class L277_FindTheCelebrity {
     public static int callNumber=0;
     public static boolean knows(int[][] nums, int i, int j) {
         callNumber++;

@@ -2,7 +2,7 @@ package com.autodesk.leecode.arraypart;
 
 import java.util.Arrays;
 
-public class L274_ALGO {
+public class L274_HIndex {
     public static void run() {
         int[] citations = {3,0,6,1,5};
         int pos = hIndexIII(citations);

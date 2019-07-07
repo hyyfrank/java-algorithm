@@ -1,6 +1,6 @@
 package com.autodesk.leecode.arraypart;
 
-public class L134_ALGO {
+public class L134_GapCost {
     public static void run() {
         int[] gas = {1,2,3,4,5};
         int[] cost={3,4,5,1,2};

@@ -1,6 +1,6 @@
 package com.autodesk.leecode.arraypart;
 import java.util.Arrays;
-public class L41_ALGO {
+public class L41_FindFirstMissingNumber {
     /**
      * Given an unsorted integer array, find the smallest missing positive integer.
      */
