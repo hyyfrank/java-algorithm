@@ -42,5 +42,8 @@ public class ArrayAlgorithmEntry {
         System.out.println("-------------------");
         System.out.println("L220: Duplicated ArrayII");
         L220_ContainsDuplicateIII.run();
+        System.out.println("-------------------");
+        System.out.println("L55: Jump Game");
+        L55_JumpGameI.run();
     }
 }
