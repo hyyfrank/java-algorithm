@@ -61,6 +61,8 @@ public class ArrayAlgorithmEntry {
         System.out.println("L334: Triple Increase Sequence");
         L334_IncreaseSequence.run();
         System.out.println("-------------------");
+        System.out.println("L128: Longest Consecutive Sequence");
+        L128_LongestConsecutiveSequence.run();
 
 
     }
