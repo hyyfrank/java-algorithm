@@ -1,6 +1,5 @@
 package com.autodesk.leecode.arraypart;
 
-import com.autodesk.leecode.util.helper;
 
 public class L26_RemoveDuplicate {
     private static int[] nums = {0,0,1,1,1,2,2,3,3,4};

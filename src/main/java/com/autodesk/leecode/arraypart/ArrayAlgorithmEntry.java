@@ -51,6 +51,14 @@ public class ArrayAlgorithmEntry {
         System.out.println("-------------------");
         System.out.println("L309: Buy Stock With Cooldown");
         L309_BuyStockWithCooldown.run();
+        System.out.println("-------------------");
+        System.out.println("L11: Container with most water");
+        L11_ContainerWithMostWater.run();
+        System.out.println("-------------------");
+        System.out.println("L42: Trapping Rain Water");
+        L42_TrappingRainWater.run();
+        System.out.println("-------------------");
+
 
     }
 }
