@@ -58,6 +58,9 @@ public class ArrayAlgorithmEntry {
         System.out.println("L42: Trapping Rain Water");
         L42_TrappingRainWater.run();
         System.out.println("-------------------");
+        System.out.println("L334: Triple Increase Sequence");
+        L334_IncreaseSequence.run();
+        System.out.println("-------------------");
 
 
     }
