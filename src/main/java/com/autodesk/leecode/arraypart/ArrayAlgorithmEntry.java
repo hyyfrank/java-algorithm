@@ -63,6 +63,9 @@ public class ArrayAlgorithmEntry {
         System.out.println("-------------------");
         System.out.println("L128: Longest Consecutive Sequence");
         L128_LongestConsecutiveSequence.run();
+        System.out.println("-------------------");
+        System.out.println("L164: Max Gap");
+        L164_MaxGap.run();
 
 
     }
